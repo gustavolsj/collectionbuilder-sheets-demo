@@ -64,7 +64,7 @@ metadata-csv:
 # dev mode turns on ability to change metadata
 development-mode: true
 # ignore stuff
-exclude: [docs/, objects/, Rakefile, README.md, LICENSE]
+exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
 sass:
   style: compressed
